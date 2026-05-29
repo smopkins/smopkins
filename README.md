@@ -1,3 +1,5 @@
+[![friends](https://hits.sh/github.com/smopkins.svg?color=4a6bb7&labelColor=3d3c3c)](https://hits.sh/github.com/smopkins/)
+
 <p align="center">
   <img width="460" height="300" src=https://i.postimg.cc/2yJ0dc0V/aphmau-aaron-lycan-(1).gif>
 
